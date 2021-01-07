@@ -4,7 +4,13 @@ metadata:
   name: timber-frontend
 spec:
   replicas: 1
+  selector:
+    matchLabels:
+      name: timber-frontend
   template:
+    metadata:
+    labels:
+      name: timber-frontend
     spec:
       containers:
       - name: timber-frontend
