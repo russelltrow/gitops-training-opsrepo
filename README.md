@@ -1,3 +1,6 @@
-# gitops-training-opsrepo
-An example ops repository for the Container Solutions GitOps training
+# Timber - GitOps Kustomize template
+
+Hey there! This is Timber.
+
+Timber is a companion app for the  [ContainerSolutions trainings](https://www.container-solutions.com/services).
 
